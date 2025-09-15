@@ -1,0 +1,37 @@
+h1{
+    background-color: rgb(233, 233, 233);
+    font-family: Arial, Helvetica, sans-serif;
+}
+ div { 
+    position: absolute;
+    border: 4px double rgb(0, 0, 0);
+    border-right-style: double;
+    background-color: rgb(237, 238, 234);
+    position-visibility: 10px;
+      border-radius: 20px 10px 20px 10px;
+       margin-left: 80%; 
+       margin-top: 10%;
+}
+body{
+    background-color: aqua;
+}
+p{
+    position: static;
+}
+
+p{
+  box-sizing: content-box;
+    border: 100px;
+    border-radius: 10px double black;
+    text-emphasis-color: black;
+    cursor: crosshair;
+  
+}
+h2{
+color: cornflowerblue;
+font-synthesis-style: inherit ;
+background-color: yellow; 
+        color: black;      
+        padding: 2px 4px;   
+        border-radius: 3px;  
+}
